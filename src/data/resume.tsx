@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Turning Ideas into Interactive Experiences | React & Next.js Developer",
   summary:"As a motivated frontend developer, I specialize in creating dynamic, user-centric web applications using React and Next.js. With a solid foundation in modern JavaScript frameworks and a keen eye for design, I am dedicated to building seamless and engaging user experiences. My goal is to leverage my skills to contribute to innovative projects and continue growing in the ever-evolving field of web development.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/hero-img.png",
   skills: [
     "React",
     "Next.js",
